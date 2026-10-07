@@ -1,18 +1,10 @@
 # About Me
-
 Hi, I'm Kendrick Asiedu Agyei from Accra, Ghana.
-
 I'm a technology enthusiast interested in software development, cloud computing, artificial intelligence, machine learning, and data.
-
 I enjoy building practical projects, learning new technologies, solving problems, and understanding how different parts of technology work together.
-
 I have worked with JavaScript, Python, R, SQL, React, React Native, Node.js, databases, AWS, Docker, and Linux.
-
 I'm currently improving my skills in software development, cloud computing, and AI/ML while building projects and preparing for postgraduate study in Artificial Intelligence and Machine Learning.
-
 I'm always learning, building, and looking for new problems to solve.
-
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kendrickagyei) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/corgi551) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kendrickasieduagyei) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/eseldur) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:agyeikendrick9@gmail.com) 
