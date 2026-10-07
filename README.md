@@ -1,108 +1,17 @@
-About Me
+# About Me
 
-Hi, I’m Kendrick Asiedu Agyei from Accra, Ghana.
+Hi, I'm Kendrick Asiedu Agyei from Accra, Ghana.
 
-I am interested in technology and enjoy learning how different parts of technology work together. I like building software, solving problems, learning new tools, and working on projects that can be useful in real life.
+I'm a technology enthusiast interested in software development, cloud computing, artificial intelligence, machine learning, and data.
 
-My main areas of interest are software development, cloud computing, artificial intelligence, machine learning, data, and accessible technology.
+I enjoy building practical projects, learning new technologies, solving problems, and understanding how different parts of technology work together.
 
-What I Work With
+I have worked with JavaScript, Python, R, SQL, React, React Native, Node.js, databases, AWS, Docker, and Linux.
 
-I have experience working with:
+I'm currently improving my skills in software development, cloud computing, and AI/ML while building projects and preparing for postgraduate study in Artificial Intelligence and Machine Learning.
 
-JavaScript, Python, R, SQL, HTML, and CSS.
+I'm always learning, building, and looking for new problems to solve.
 
-For frontend development, I have worked with React, React Native, Expo, Vite, and Chart.js.
-
-For backend development, I have worked with Node.js, Express, REST APIs, authentication, MongoDB, PostgreSQL, SQLite, and other database tools.
-
-I also have experience with WordPress, Tutor LMS, Elementor, Paystack, and learning management systems.
-
-I am currently building my knowledge of AWS, Linux, Docker, GitHub Actions, networking, cloud systems, Java, and Spring Boot.
-
-I am also improving my knowledge of machine learning using Python, Pandas, NumPy, and Scikit-learn.
-
-My Projects
-
-I enjoy building projects that solve actual problems.
-
-Some of the projects I have worked on include a church administration and auditing application, an accessibility platform for people with visual impairments, a flood-related project, and an electric vehicle charging station locator.
-
-I have also worked on learning management systems and web applications.
-
-One of my previous projects involved working with a team to develop a learning management system for more than 2,000 national service personnel.
-
-Accessibility
-
-Accessibility is an area that I care about because I believe technology should be usable by everyone.
-
-I have learned about web accessibility and WCAG guidelines and have worked on projects that consider people with visual impairments and other accessibility needs.
-
-Cloud and Development
-
-I am currently learning more about how software is developed, tested, deployed, and maintained.
-
-I am working on practical projects involving AWS, Docker, Linux, GitHub Actions, and automated development processes.
-
-I want to understand more than just how to write code. I want to understand how the different parts of a software system work together.
-
-Artificial Intelligence and Machine Learning
-
-I am developing my foundation in artificial intelligence and machine learning.
-
-My current focus includes Python, data preparation, Pandas, NumPy, Scikit-learn, regression, classification, model evaluation, and machine learning projects.
-
-I am interested in applying machine learning to practical problems and eventually learning more about modern AI systems.
-
-How I Learn
-
-I learn best by building things.
-
-I usually learn a concept, try it in a project, make mistakes, research the problem, fix it, and then try to understand why the solution works.
-
-I also like drawing diagrams and explaining technical ideas because explaining something clearly helps me understand it better.
-
-I do not want to simply know how to use a tool. I want to understand what it does, why it exists, and when it should be used.
-
-What I Am Working Toward
-
-I am working toward becoming a well-rounded technology professional with strong skills in software development, cloud computing, and artificial intelligence.
-
-I want to be able to build software, work with data, use cloud services, understand computer systems, and solve problems using technology.
-
-I am also interested in research and would like to combine industry experience with further academic study in the future.
-
-My Approach
-
-I believe there is always more to learn.
-
-I do not expect to know everything, and I am comfortable learning something new when a project requires it.
-
-My approach is simple:
-
-Learn.
-
-Build.
-
-Ask questions.
-
-Make mistakes.
-
-Fix them.
-
-Build again.
-
-Outside Technology
-
-Outside technology, I enjoy books, music, gaming, history, culture, board games, plants, and learning about different subjects.
-
-I am naturally curious and enjoy learning about things outside my main field of study.
-
-Current Goal
-
-My current goal is to keep improving my technical skills, build better projects, gain professional experience, and work with people who are also interested in solving meaningful problems.
-
-I am still learning, still building, and still figuring out where my interests will take me.
 
 
 ## 🌐 Socials:
